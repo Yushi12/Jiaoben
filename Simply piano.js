@@ -5,6 +5,6 @@
 
 [Script]
 # Simply Piano
-simply piano = type=http-response,pattern=^https:\/\/alicdn\.joytunescn\.com\/server\/asla\/accounts\/accountAuthenticate,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/simplypiano.js,script-update-interval=0
+simply piano = type=http-response,pattern=^https:\/\/alicdn\.joytunescn\.com\/server\/asla\/accounts\/accountAuthenticate,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Yushi12/Jiaoben/0038a396bdb4a2ee357eb90e6d19ed51507acc65/Simply%20piano.js,script-update-interval=0
 [MITM]
 hostname = %APPEND% alicdn.joytunescn.com
